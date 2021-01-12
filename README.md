@@ -30,3 +30,7 @@ Automatically Google login by selenium [Python]
 - Windows10
 - Python 3.6
 - Selenium 3.141.0
+
+---
+
+<p align=center>© 2021 XENIA101 - Released under GPL License 2.0</p>
